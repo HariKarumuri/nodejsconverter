@@ -2,7 +2,7 @@ module.exports = {
     HOST: 'localhost',
     USER: 'root',
     PASSWORD: '',
-    DB: 'NodeConverter',
+    DB: 'nodeconverter',
     dialect: 'mysql',
 
     pool: {
